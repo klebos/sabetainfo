@@ -2,7 +2,6 @@ import datetime
 
 import requests
 import telebot
-from yandexWeatherKey import openweatherkey as key
 import json
 
 tok = '2085136916:AAEZzkPuN9si82q7SwaA2Xhg0thMhyfgXKo'
