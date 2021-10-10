@@ -1,0 +1,2 @@
+apikey = '49347908-4e01-42aa-bf09-067d90429fe7'
+openweatherkey = '61f3b2ca64b713033ad45326c2f5b919'
